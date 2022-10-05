@@ -8,5 +8,5 @@ app.get('/', (req, res) => {
 })
 
 .listen(process.env.PORT || 5000, () => {
-  console.log(`App running on port ${port}.`)
+  console.log(`App running .`)
 })
